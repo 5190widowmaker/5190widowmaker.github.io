@@ -1,5 +1,6 @@
 # final_project
-![d33960df0febec3224a5414b3f7b8f1](https://user-images.githubusercontent.com/114200453/210052888-22603b10-9648-4263-ac01-44d61f10eff6.jpg)
+![image](https://user-images.githubusercontent.com/114256663/210098907-8da77f28-9226-45dd-aa62-da8cf9f5d98b.png)
+
 
 # Team overview
     Sizhe Ma: https://github.com/MaxMa6150
@@ -7,7 +8,8 @@
     Sudong Wang: https://github.com/sudong-wang
     
     Ying Xu: https://github.com/real-YingXu
-
+    
+![d33960df0febec3224a5414b3f7b8f1](https://user-images.githubusercontent.com/114200453/210052888-22603b10-9648-4263-ac01-44d61f10eff6.jpg)
 
 # project showcase
 In this project,we made a launchpad with a sequencer that can loop drum beat. At starter, the launchpad will start with a black screen on the LCD display, then the four drum set will played along with the lcd display shows "launch" "pad" "music" "game" with the same color as the drum set color. Then the user will be asked to choose to play sequencer mode(1) or launchpad mode(2). 
